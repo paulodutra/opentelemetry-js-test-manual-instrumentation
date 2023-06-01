@@ -2,6 +2,8 @@
 
 This project is a clone of the repository: https://github.com/kubowania/opentelemetry-movies-microservices
 
+The project uses opentelemetry-js in version 0.16.0 and following the instructions on this link: https://github.com/open-telemetry/opentelemetry-js/tree/v0.16.0/getting-started
+
 1. to start this app run to start a zipkin container
 
 ```
